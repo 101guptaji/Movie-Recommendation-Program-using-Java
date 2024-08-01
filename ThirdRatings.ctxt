@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ThirdRatings
+comment0.text=\r\n\ Write\ a\ description\ of\ ThirdRatings\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ThirdRatings()
+comment2.params=ratingFile
+comment2.target=ThirdRatings(java.lang.String)
+comment3.params=
+comment3.target=int\ getRaterSize()
+comment4.params=id\ minRaters
+comment4.target=double\ getAverageByID(java.lang.String,\ int)
+comment5.params=minRaters
+comment5.target=java.util.ArrayList\ getAverageRatings(int)
+comment6.params=minRaters\ f
+comment6.target=java.util.ArrayList\ getAverageRatingsByFilter(int,\ Filter)
+numComments=7
