@@ -18,3 +18,8 @@ Given input files on users ratings and movie titles, you will be able to:
 3. Calculate how similar a given rater is to another user based on ratings; and
 4. Recommend movies to a given user based on ratings. 
 5. Display recommended movies for a given user on a webpage.
+
+![image](https://github.com/user-attachments/assets/12698140-842c-4842-85ec-17d1657773ae)
+
+![image](https://github.com/user-attachments/assets/11f6779e-50bc-41b2-8871-0abcfab32bd6)
+
